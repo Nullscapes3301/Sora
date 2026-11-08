@@ -5,7 +5,7 @@ Despues de una larga travesia y problemas con adb: SE PUDO!
 
 ## Metodo
 
-Para sacar las apks de mi telefono active *opciones de desarrollador* y despues *depuracion inalambrica*. Despues conecte mi telefono a mi computador a travez de adb y extraje las apk para subirlas a github.
+Para sacar las apks de mi telefono active *opciones de desarrollador* y despues *depuracion inalambrica*. Despues conecte mi telefono a mi computador a travez de adb y extraje las apk para subirlas a github. Para "descompilarlas" primero quise revisarlas en  HxD y encontre la firma `PK` y el nombre del xml del manifiesto de Android, entonces con WinRar los descomprimi y los subi.
 
 ## Informacion
 
